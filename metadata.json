@@ -1,0 +1,6 @@
+{
+  "name": "Kopi Mbekayu - Pembukuan & Kartu Stok Gudang",
+  "description": "Sistem pembukuan stok kopi, kartu saldo berjalan (ledger) otomatis, filter biji kopi, verifikasi mutasi, export CSV, dan cetak resmi arsip gudang Kopi Mbekayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
